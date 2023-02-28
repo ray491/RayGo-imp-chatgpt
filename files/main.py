@@ -37,7 +37,7 @@ def generate_response(prompt, entities, sentiment):
 
 def chatbot():
     nlp = spacy.load("en_core_web_sm")
-    openai.api_key = "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"
+    openai.api_key = "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"
 
 
     # define the GUI layout
